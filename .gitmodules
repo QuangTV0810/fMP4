@@ -1,0 +1,7 @@
+[submodule "3rd/fdk-aac"]
+	path = 3rd/fdk-aac
+	url = https://github.com/mstorsjo/fdk-aac.git
+[submodule "3rd/media-server"]
+	path = 3rd/media-server
+	url = https://github.com/ireader/media-server.git
+	ignore = untracked
