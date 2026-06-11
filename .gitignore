@@ -63,7 +63,7 @@ Testing/
 
 # Platform 
 sources/platform/utils/icam_ringbuffer*
-sources/platform/osal
+sources/platform/osal/*
 
 # HAL SoC
-sources/hal/rts3917n
+sources/hal/rts3917n/*
